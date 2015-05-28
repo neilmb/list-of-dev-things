@@ -52,6 +52,10 @@ If you are using Windows take a look at the section at the end of this file.
 
 [Here](http://cli.learncodethehardway.org/book/) is a good tutorial.
 
+To understand the power and potential of the command line, consider [this 
+entertaining perspective](http://www.cryptonomicon.com/beginning.html) on the 
+strings of ones and zeros that truly make up any computer.
+
 ### Git and github
 
 When doing software development you need to use a 'version control' system.
